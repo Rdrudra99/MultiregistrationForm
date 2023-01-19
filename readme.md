@@ -18,5 +18,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a FrontEnd developer...
 
