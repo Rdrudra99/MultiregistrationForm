@@ -1,5 +1,5 @@
 document.querySelector("form").addEventListener("submit", function(event) {
-    alert("Thank you! Your Submission Has Been Sent ");
+
     event.preventDefault();
     
     let photo = document.querySelector("input[name='photo']");
