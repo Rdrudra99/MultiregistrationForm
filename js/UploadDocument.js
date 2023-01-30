@@ -51,6 +51,7 @@ document.querySelector("form").addEventListener("submit", function(event) {
     
     // Form is valid, submit it.
     this.submit();
+    alert("Thank you for submitting.");
   });
 
   
